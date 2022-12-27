@@ -21,18 +21,11 @@
 <img src  = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width  = 30 height = "30">
 <img src  = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width  = 30 height = "30">
 
-<br />
-<details>
-<summmary>:bulb: GitHub Stats</summary>
-<img source  = "https://github-readme-stats.vercel.app/api?username=anuraghazra">
- </details>
+
+[![JHB2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHB2M)](https://github.com/JHB2M/JHB2M/blob/main/README.md)
 
 
-
-[![JHB2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHB2M)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact)](https://github.com/JHB2M/JHB2M/blob/main/README.md)
 
 
 [linkedinn]:https://www.linkedin.com/in/mahmut-özübek-6797b524a/
