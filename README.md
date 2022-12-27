@@ -9,8 +9,6 @@
 ### Reach out to me
 [<img height="30" width="26" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" aling  = "left" />][linkedinn]
 
-<br />
-<br />
 
 
 ### Tech  I Use
