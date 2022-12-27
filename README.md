@@ -24,19 +24,15 @@
 <br />
 <details>
 <summmary>:bulb: GitHub Stats</summary>
-<img source  = "https://github-readme-stats.vercel.app/api?username=JHB2M&theme = radical">
+<img source  = "https://github-readme-stats.vercel.app/api?username=anuraghazra">
  </details>
 
-<details>
-<summmary>:bulb: GitHub Stats</summary>
-<img source = "https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact">
-</details>
 
 
+[![JHB2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHB2M)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedinn]:https://www.linkedin.com/in/mahmut-özübek-6797b524a/
