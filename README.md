@@ -1,14 +1,15 @@
 ## Hi there :blush:
 
 
-### Hi there  I'm Mahmut. 
+### Hi there  I'm Mahmut.  I'm working on the cyber security  and  developing 
 ## Cyber Security Engineer | Pentester
 
-<font color  = "pink">Coffe  is how i keep up with 'code' </font>
+
 
 ### Reach out to me
 [<img height="30" width="26" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" aling  = "left" />][linkedinn]
 
+<br />
 
 
 ### Tech  I Use
@@ -21,10 +22,11 @@
 
 
 
-[![JHB2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHB2M)](https://github.com/JHB2M/JHB2M/blob/main/README.md)
+
+[![JHB2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHB2M)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact)](https://github.com/JHB2M/JHB2M/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHB2M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedinn]:https://www.linkedin.com/in/mahmut-özübek-6797b524a/
