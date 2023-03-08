@@ -1,8 +1,6 @@
 ## Hi there :blush:
 
 
-### Hi there  I'm Mahmut.  I'm working on the cyber security  and  developing 
-## Cyber Security Engineer | Pentester
 
 
 
